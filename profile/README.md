@@ -8,4 +8,4 @@ OpenAI, Typescript, Node, Python, Prisma
 
 [vula](https://www.vula.vc) 
 
-![Vula logo](./images/vula.png)
+![Vula logo](/profile/images/vula.png)
